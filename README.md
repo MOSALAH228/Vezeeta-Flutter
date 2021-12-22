@@ -1,16 +1,8 @@
-# vezeeta_flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1639492293](https://user-images.githubusercontent.com/77206236/147166059-d9ec5348-9090-490f-8fc3-ac7aff96939c.png)
+![Screenshot_1639678430](https://user-images.githubusercontent.com/77206236/147166066-bdfbe645-8845-480f-b24f-9c8354fa5285.png)
+![Screenshot_1639678448](https://user-images.githubusercontent.com/77206236/147166068-ff725ff6-9560-47ef-91a7-fef101db2fec.png)
+![Screenshot_1640145343](https://user-images.githubusercontent.com/77206236/147166069-078c9910-17de-4cbf-801b-45cd64ddf9f4.png)
+![Screenshot_1639226664](https://user-images.githubusercontent.com/77206236/147166071-7fca37f9-7000-4b9b-8477-1c2056f50abd.png)
+![Screenshot_1639226701](https://user-images.githubusercontent.com/77206236/147166073-aab655da-6873-4e76-8dc4-7676138f3a43.png)
+![Screenshot_1639226710](https://user-images.githubusercontent.com/77206236/147166074-9e25befe-3d4a-49c7-bc33-c6db524f941f.png)
+![Screenshot_1639492270](https://user-images.githubusercontent.com/77206236/147166075-e1a8bb42-10a7-46cd-8dd5-578c659c9a35.png)
