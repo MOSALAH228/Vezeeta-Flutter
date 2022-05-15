@@ -3,7 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:vezeeta_flutter/constants.dart';
 import 'package:provider/provider.dart';
 import 'package:form_field_validator/form_field_validator.dart';
-import 'package:vezeeta_flutter/screens/doctorProfile_screen.dart';
+import 'package:vezeeta_flutter/screens/doctor_profile/doctorProfile_screen.dart';
 import 'package:vezeeta_flutter/screens/home_screen.dart';
 import 'package:vezeeta_flutter/screens/reservation_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';

@@ -4,7 +4,7 @@ import 'package:provider/provider.dart';
 import 'package:vezeeta_flutter/api/doctor_api.dart';
 import 'package:vezeeta_flutter/constants.dart';
 import 'package:vezeeta_flutter/notifier/specialist_notifier.dart';
-import 'package:vezeeta_flutter/screens/doctors_screen.dart';
+import 'package:vezeeta_flutter/screens/doctors_screen/doctors_screen.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 class SpecialistScreen extends StatefulWidget {
