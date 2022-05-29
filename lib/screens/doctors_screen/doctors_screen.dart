@@ -115,16 +115,20 @@ class _DoctorsScreenState extends State<DoctorsScreen> {
                                           ],
                                         ),
                                       ),
-                                      Column(
-                                        children: <Widget>[
-                                          DoctorsHead(
-                                              doctorsNotifier: doctorsNotifier),
-                                          SizedBox(
-                                            height: 9,
-                                          ),
-                                          DoctorsDetails(
-                                              doctorsNotifier: doctorsNotifier),
-                                        ],
+                                      Expanded(
+                                        child: Stack(
+                                          children: <Widget>[
+                                            DoctorsHead(
+                                                doctorsNotifier:
+                                                    doctorsNotifier),
+                                            SizedBox(
+                                              height: 9,
+                                            ),
+                                            DoctorsDetails(
+                                                doctorsNotifier:
+                                                    doctorsNotifier),
+                                          ],
+                                        ),
                                       ),
                                     ],
                                   ),
